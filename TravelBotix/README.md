@@ -1,7 +1,4 @@
 
-ChatGPT
-markdown
-Copy code
 # TraveBotix✈
 
 ## Introduction
